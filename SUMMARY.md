@@ -1,4 +1,4 @@
 # Table of contents
 
-* [gitbook\_](README.md)  
+* [README](README.md)  
 * [chapter1](chapter1.md)
